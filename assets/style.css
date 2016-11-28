@@ -1,0 +1,59 @@
+ body{
+        background-color: #000000;
+        margin-top: -20.7px;
+        color: #a04c4c;
+        font-family: "georgia";
+        }
+      header{
+        background-color: brown;
+        text-align: center;
+        color: pink;
+             }
+      h2{
+        letter-spacing: 1.8px;
+        font-size: 0.4cm;
+        margin-left: 21px;
+
+                  }
+      p{ 
+        width: 30%;   
+        float: left;
+        margin-left: 10px;    
+         }
+
+      p3{ 
+          position: relative;
+          top: 700px;
+
+
+      }
+      #main-bio{
+          float: left;
+          margin-left: 21px;
+            }
+      .onethird{
+        width: 30%;
+      }
+
+
+      div{
+          width: 30%;
+           float: right;
+
+
+            }
+      li a {
+    display: inline-block;
+    color: #b35d5d;
+;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: red;
+}
+   .overflow{
+            overflow: auto;
+           }
